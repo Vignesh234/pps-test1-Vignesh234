@@ -10,7 +10,7 @@
 		<br>1
 		3r>Add two numbers using 4 functions and  2
 		<br> output:
-		<br> sum of 1+2 is 3
+		<br> sum of 1+2 is 3{}
 	
 <br>3.	Add two numbers using 4 functions and Pass by reference
 		<br> Pass by value
